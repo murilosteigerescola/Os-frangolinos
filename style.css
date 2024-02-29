@@ -1,0 +1,11 @@
+{margin: 0;
+padding: 0;}
+
+header{
+    background-color: rgba(127, 255, 212, 0.733);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    
+}
