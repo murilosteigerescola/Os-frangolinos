@@ -10,4 +10,8 @@ header{
     
 }
 
-.cabecalho-lista-item{display: ;}
+.cabecalho-lista-item{
+    display: inline-block;
+margin:0 20px;
+padding: 10px 0;
+}
