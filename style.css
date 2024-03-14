@@ -2,8 +2,8 @@
 padding: 0;}
 
 header{
-    background-color: rgba(0, 255, 34, 0.733);
-    color: black;
+    background-color: rgba(0, 110, 255, 0.733);
+    color: rgb(255, 0, 0);
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
