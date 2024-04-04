@@ -2,8 +2,8 @@
 padding: 0;}
 
 header{
-    background-color: rgba(229, 255, 0, 0.733);
-    color: rgb(0, 0, 0);
+    background-color: rgb(37, 131, 240);
+    color: rgba(255, 255, 255, 0);
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
@@ -20,5 +20,5 @@ font-size:24px;
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(rgb(0, 225, 255), rgb(25, 0, 255));
+    background-image: linear-gradient(rgb(9, 102, 114), rgb(3, 66, 160));
 }
