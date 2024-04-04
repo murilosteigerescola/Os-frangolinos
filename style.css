@@ -21,4 +21,6 @@ font-size:24px;
 }
 .escola{
     background-image: linear-gradient(rgb(54, 156, 240), rgb(0, 153, 255));
+ color: aliceblue;
+    display: flex;
 }
