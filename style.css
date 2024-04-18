@@ -2,7 +2,7 @@
 padding: 0;}
 
 header{
-    background-color: rgb(37, 131, 240);
+    background-color: rgb(25, 0, 114);
     color: rgb(255, 246, 246);
     display: flex;
     justify-content: space-around;
@@ -20,7 +20,7 @@ font-size:24px;
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(rgb(54, 156, 240), rgb(0, 153, 255));
+    background-image: linear-gradient(rgb(82, 85, 255), rgb(79, 180, 247));
  color: aliceblue;
     display: flex;
     justify-content: center;
@@ -41,6 +41,6 @@ padding: 20px;
 .imagem-escola{margin: 40px}
 
 .estudante{
-    background-image: linear-gradient(rgb(37, 49, 211), rgb(3, 48, 146));
+    background-image: linear-gradient(rgb(70, 172, 255), rgb(100, 206, 255));
 color:rgb(255, 255, 255) ;    
 }
