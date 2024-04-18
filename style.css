@@ -44,3 +44,9 @@ padding: 20px;
     background-image: linear-gradient(rgb(70, 172, 255), rgb(100, 206, 255));
 color:rgb(255, 255, 255) ;    
 }
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-icone{
+    width: 20px;
+}
