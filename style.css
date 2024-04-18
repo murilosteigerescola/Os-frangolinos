@@ -37,3 +37,10 @@ font-size:24px;
 .titulo-escola{
 padding: 20px;
 }
+
+.imagem-escola{margin: 40px}
+
+.estudante{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
+    
+}
