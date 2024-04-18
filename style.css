@@ -41,6 +41,6 @@ padding: 20px;
 .imagem-escola{margin: 40px}
 
 .estudante{
-    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
-    
+    background-image: linear-gradient(rgb(37, 49, 211), rgb(3, 48, 146));
+color:cadetblue ;    
 }
