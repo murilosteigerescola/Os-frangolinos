@@ -60,5 +60,5 @@ color:rgb(255, 255, 255) ;
     padding: 50px 0;
 .estudante-todos{
     display: grid;
-    grid-template-columns: 33%;
+    grid-template-columns: 33% 33% 33%;
 }
