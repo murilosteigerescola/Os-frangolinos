@@ -62,4 +62,4 @@ color:rgb(255, 255, 255) ;
 .estudante-todos{
     display: grid;
     grid-template-columns: 33% 33% 33%;
-}
+ }
