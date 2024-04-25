@@ -50,3 +50,6 @@ color:rgb(255, 255, 255) ;
 .estudante-icone{
     width: 20px;
 }
+.estudante-titulo{
+    text-align: center;
+}
